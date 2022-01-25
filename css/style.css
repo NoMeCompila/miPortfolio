@@ -17,7 +17,8 @@ body {
     font-family: 'Averia Serif Libre', cursive;
     font-family: 'Miriam Libre', sans-serif;
     font-family: 'Varela Round', sans-serif;
-  margin: 0 auto;
+    margin: 0 auto;
+    
   
 }
 canvas {
@@ -169,4 +170,20 @@ footer{
   justify-content: center;
   align-items: center;
   color: white;
+}
+
+.parrafo{
+  margin: 50px;
+  width: 70%
+}
+
+.pcontainer{
+  width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+aside{
+  
+  
 }
